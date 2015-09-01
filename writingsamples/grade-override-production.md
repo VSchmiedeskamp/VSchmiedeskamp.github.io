@@ -66,9 +66,7 @@ No respondents to my requests for volunteers were completely unfamiliar with the
 The following table illustrates the results of a test with one user and the conclusions drawn from that test.
 
 | *Criteria*    | *Result*    |   *Conclusions and recommendations*   |
-| ------------- | ----------- | ------------------------------------- |
+| -------------------- | ----------- | ------------------------------------- |
 | Completion time comparable to that of a more experienced user. | Test participant completed the task in under 1 minute 30 seconds. More practiced users of this software can complete the task in around 1 minute. | This is an acceptable difference in user speed. The gap here will likely close as the user gains familiarity with the UI.
 | Few to no moments of verbalised frustration. | Test participant scanned the document quickly and easily, using mostly the headings and screen grabs. When they got to the “Comments” section, they verbalized that they did not need that step and stopped reading. | Comments section is potentially not needed. It does not get in the way of the supertask. |
 | No instances of backtracking through the UI. | The participant preemptively reset a grading period menu option not mentioned in the procedure. The participant also clicked the Save button at the end, also not included in the procedure. These were not backtracks, but clearly indicated missing steps in the procedure. | The first of these steps will be added to the final draft of the document. The ‘Save’ button has been removed from the UI since the time of this test, so this step is unnecessary. |
-
-|--------------------------+----------------------------------------------+--------------------------------------|
