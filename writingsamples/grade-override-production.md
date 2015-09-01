@@ -65,7 +65,6 @@ No respondents to my requests for volunteers were completely unfamiliar with the
 
 The following table illustrates the results of a test with one user and the conclusions drawn from that test.
 
-|--------------------------+----------------------------------------------+--------------------------------------|
 | *Criteria*    | *Result*    |   *Conclusions and recommendations*   |
 | ------------- | ----------- | ------------------------------------- |
 | Task completion in a span of time comparable to a more experienced user. | Test participant completed the task in under 1 minute 30 seconds. More practiced users of this software can complete the task in around 1 minute. | This is an acceptable difference in user speed. The gap here will likely close as the user gains familiarity with the UI.
